@@ -1,1 +1,2 @@
-00000
+print("Suwit wangsanam")
+print("Suwit wangsanam")
